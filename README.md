@@ -1,2 +1,2 @@
-# -svg-onload-prompt-0-
+# "><svg/onload=prompt(0)>
 ">&lt;svg/onload=prompt(1)>
